@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C969PA_KyleDiablo", "C969PA_KyleDiablo\C969PA_KyleDiablo.csproj", "{BACDFE6E-4165-45A7-84DC-FDF9D01800BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11E4F10F-BB2C-40CF-B820-CA3C5CE57420}"
+	ProjectSection(SolutionItems) = preProject
+		connstr.txt = connstr.txt
+		log.txt = log.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACDFE6E-4165-45A7-84DC-FDF9D01800BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACDFE6E-4165-45A7-84DC-FDF9D01800BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACDFE6E-4165-45A7-84DC-FDF9D01800BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACDFE6E-4165-45A7-84DC-FDF9D01800BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BD31E5-0C1F-492B-8A67-82BA5D64EA4E}
+	EndGlobalSection
+EndGlobal

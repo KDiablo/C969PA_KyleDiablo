@@ -1,0 +1,4 @@
+Server: wgudb.ucertify.com:3306
+UDB Name: U06N0V
+Username: U06N0V
+Password: 53688811572
